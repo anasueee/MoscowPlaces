@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Moscow Places</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Заголовки -->
+    <string name="header1">Музей психиатрической больницы им. Алексеева</string>
+    <string name="header2">Подпольная типография 1905-1906 гг.</string>
+    <string name="header3">Церковь Климента Папы Римского</string>
+    <string name="header4">Благовещенский собор</string>
+
+    <!-- Описание -->
+    <string name="description1">Все интересное, что происходило в этой психиатрической больнице за последние сто с лишним лет, задокументировано в музее. Под музей здесь переделали реальные больничные палаты и в трех выставочных залах собрали самые разные артефакты — от реальных историй болезни до поделок пациентов из цеха трудовой терапии.\n\nВремя работы: 10:00 - 15:00\n\nАдрес: ш. Загородное, 2, стр. 1Б</string>
+    <string name="description2">Благовещенский</string>
+    <string name="description3">Благовещенский</string>
+    <string name="description4">Благовещенский</string>
+</resources>
